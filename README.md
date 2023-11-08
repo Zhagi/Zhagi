@@ -17,7 +17,6 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 ## Connect with Me
 
 📬 Find me on LinkedIn 
-
 📄 View my CV
 
 # Tech Stack
