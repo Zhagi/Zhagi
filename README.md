@@ -32,5 +32,5 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+![Profile Views](https://camo.githubusercontent.com/fc4f0e2c149c2d02a7e2a53f22212bcf381503265d51d9ff0ec08ac97abe9a72/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a616b6573696e6579267374796c653d666c61742d73717561726526636f6c6f723d626c7565) 
 
