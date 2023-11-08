@@ -8,7 +8,9 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 
 🔭 Currently, I'm honing my skills in Kubernetes, Terraform, Python, and Ansible.
 
-🔐 At Makers, my latest projects focused on mitigating security vulnerabilities using SAST & DAST tools, and ensuring system reliability and availability through NGINX reverse proxy, CloudFront caching, and monitoring with AWS Athena and CloudWatch.  📖 I'm currently delving into 'The Unicorn Project' by Gene Kim, exploring the intricacies of developers' roles in digital disruption.  
+🔐 At Makers, my latest projects focused on mitigating security vulnerabilities using SAST & DAST tools, and ensuring system reliability and availability through NGINX reverse proxy, CloudFront caching, and monitoring with AWS Athena and CloudWatch.  
+
+📖 I'm currently delving into 'The Unicorn Project' by Gene Kim, exploring the intricacies of developers' roles in digital disruption.  
 
 💻 Open to opportunities in DevOps, Cloud Computing, Site reliability engineering, Platform engineering and Software engineering.
 
@@ -18,6 +20,6 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 📄 View my CV
 
 # Tech Stack
-I 
+
 
 
