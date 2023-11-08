@@ -20,17 +20,6 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 [![GitHub CV](https://img.shields.io/badge/GitHub_CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/YOUR-CV-REPOSITORY)
 [![CV PDF](https://img.shields.io/badge/CV_PDF-%23007ACC.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](URL_TO_YOUR_CV_PDF)
 
-
-
-
-
-
-📬 Find me on [LinkedIn](https://www.linkedin.com/in/zubayda-h-5a629b201)
-
-📄 View my [GitHub CV](https://github.com/yourusername/yourrepository/blob/main/yourcv.pdf) and my [PDF CV](https://github.com/yourusername/yourrepository/blob/main/yourcv.pdf)
-
-✉️ Email me @ zubaydahagi@gmail.com
-
 # Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
