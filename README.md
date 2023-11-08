@@ -20,6 +20,8 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 
 📄 View my [CV](https://github.com/yourusername/yourrepository/blob/main/yourcv.pdf)
 
+✉️ Email: [Email](zubaydahagi@gmail.com)
+
 
 # Tech Stack
 
