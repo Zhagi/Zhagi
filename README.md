@@ -2,13 +2,13 @@
 
 ## About me
 
-Hi, I’m Zubayda, a developer from London with a background in chemistry education. I am a graduate of Makers Academy Software development (DevOps stream) bootcamp (July-Oct 2023).
+Hi, I’m Zubayda, a developer from London with a background in chemistry education. I am a graduate of [Makers](https://makers.tech/) Academy Software development (DevOps stream) bootcamp (July-Oct 2023).
 
 ## What I'm Working On
 
 🔭 Currently, I'm honing my skills in Kubernetes, Terraform, Python, and Ansible.
 
-🔐 At Makers, my latest projects focused on mitigating security vulnerabilities using SAST & DAST tools, and ensuring system reliability and availability through NGINX reverse proxy, CloudFront caching, and monitoring with AWS Athena and CloudWatch.  
+🔐 At Makers, my latest projects focused on mitigating security vulnerabilities using SAST & DAST tools, and ensuring system [reliability](https://github.com/Zhagi/Reliability-Project) and availability through NGINX reverse proxy, CloudFront caching, and monitoring with AWS Athena and CloudWatch.  
 
 📖 I'm currently delving into 'The Unicorn Project' by Gene Kim, exploring the intricacies of developers' roles in digital disruption.  
 
