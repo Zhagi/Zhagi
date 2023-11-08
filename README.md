@@ -18,7 +18,7 @@ Hi, I’m Zubayda, a developer from London with a background in chemistry educat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubayda-h-5a629b201)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zubaydahagi@gmail.com)
 [![GitHub CV](https://img.shields.io/badge/GitHub_CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/YOUR-CV-REPOSITORY)
-[![CV PDF](https://img.shields.io/badge/CV_PDF-%23007ACC.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Zhagi/Zhagi/blob/main/Zubayda%20Hagi%20(GitHub).pdf)
+[![CV PDF](https://img.shields.io/badge/CV_PDF-%23007ACC.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]()
 
 # Tech Stack
 
